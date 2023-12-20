@@ -7,7 +7,7 @@ export default function Footer() {
         &copy; 2030 Mrityujay. All rights reserved.
       </small>
       <p className="text-xs">
-        <span className="font-semibold">About this website:</span> Developed using JavaScript, Next & React.
+        <span className="font-semibold">About this website:</span> Developed using JavaScript, Next.js & React.
       </p>
     </footer>
   );
