@@ -1,4 +1,5 @@
 import About from "@/components/about";
+import BottomSectionDivider from "@/components/bottom-section-divder";
 import Contact from "@/components/contact";
 import Intro from "@/components/intro";
 import { Projects } from "@/components/projects";
@@ -14,9 +15,8 @@ export default function Home() {
       <About />
       <Skills />
       <Projects />
-      {/* <SectionDivider/> */}
+      <BottomSectionDivider />
       <Contact />
-      
     </main>
   )
 }
