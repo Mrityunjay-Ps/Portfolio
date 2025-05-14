@@ -59,8 +59,8 @@ export default function Intro() {
             >
                 <span className="font-bold">Hello, I'm Mrityunjay Singh.</span> I'm a{" "}
                 <span className="font-bold">Mobile App Developer</span> with expertise in{" "}
-                <span className="italic">React Native</span> and{" "}
-                <span className="underline">Android (Kotlin)</span>. I also have backend skills in{" "}
+                <span className="italic underline">React Native</span> and{" "}
+                <span className="underline">Android (Kotlin)</span> I also have backend skills in{" "}
                 <span className="font-bold">Java Spring Boot</span>, focusing on building scalable systems and user-friendly apps.
             </motion.h1>
 
